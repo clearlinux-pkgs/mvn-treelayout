@@ -4,7 +4,7 @@
 #
 Name     : mvn-treelayout
 Version  : 1.0.3
-Release  : 2
+Release  : 3
 URL      : https://github.com/abego/treelayout/archive/v1.0.3.tar.gz
 Source0  : https://github.com/abego/treelayout/archive/v1.0.3.tar.gz
 Source1  : https://repo1.maven.org/maven2/org/abego/treelayout/org.abego.treelayout.core/1.0.1/org.abego.treelayout.core-1.0.1.jar
